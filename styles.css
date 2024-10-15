@@ -13,12 +13,31 @@ h1{
     justify-content: center;
    display: flex;
 }
-button{
+.firstbutton{
     margin: 10px;
     cursor: pointer;
     border: 5px dashed brown ;
 }
-button:hover{
+/* button:hover{
     background-color: black;
     color: aliceblue; 
+} */
+.subButjs{
+    background-color: grey;
+    color: black;
+    margin : 30px;
+    padding: 5px 10px;
+    font-style: italic;
+    border-radius: 20px;
 }
+.subBut{
+    margin : 30px;
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+    font-style: italic;
+    border-radius: 20px;
+    
+
+}
+
