@@ -1,0 +1,35 @@
+/* .leftMenu{
+    /* display: flex;
+    flex-direction: column;             
+    height: 20px;
+    position: fixed;
+    top: 40;
+    left: 0;
+    width: 200px;
+    height: 100vh;                  
+    border: 1px solid black;
+    background-color: azure;
+    color: black;
+}
+
+.item{
+    border: 10px ;
+    border-radius: 12px;
+    padding: 5px;
+    
+}
+
+.topMenu{
+    display: inline;
+    left: 200;
+    border: 10px;
+    background-color: red;
+
+
+}
+
+.items2{
+    border: 10px solid black;
+    padding: 10px;
+    
+} */
